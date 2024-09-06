@@ -1,0 +1,4 @@
+00:25:49 - ERR - getRecords - (OperationalError('could not translate host name "db" to address: Host desconocido. \n'),)
+00:25:49 - ERR - getAllUsers - (UnboundLocalError("cannot access local variable 'cursor' where it is not associated with a value"),)
+00:26:13 - ERR - getRecords - (OperationalError('could not translate host name "db" to address: Host desconocido. \n'),)
+00:26:13 - ERR - getAllUsers - (UnboundLocalError("cannot access local variable 'cursor' where it is not associated with a value"),)

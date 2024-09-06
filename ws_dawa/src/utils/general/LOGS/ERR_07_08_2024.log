@@ -1,0 +1,2 @@
+20:45:05 - ERR - ExecuteNonQuery - (OperationalError('could not translate host name "db" to address: Host desconocido. \n'),)
+20:45:05 - ERR - insertUser - (UnboundLocalError("cannot access local variable 'cursor' where it is not associated with a value"),)
